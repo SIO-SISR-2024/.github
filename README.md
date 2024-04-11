@@ -5,4 +5,4 @@ Nous sommes une équipe d'étudiant en bts sio option SISR. Nous avons créer ce
 
 Si vous avez la moindre question n'hésité à nous la poser
 
-L'équipe BTS SIO option SISR
+L'équipe BTS SIO option SISR :)
