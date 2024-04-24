@@ -1,6 +1,27 @@
-# Page d'accueil
-## Ceci est le répertoire d'accueil de notre GitHub
+# SIO SISR/SLAM 2024
 
-Nous sommes une équipe d'étudiant en bts sio option SISR. Nous avons créer ce github pour pouvoir partager nos projet sur cette plateforme colaborative.
+Bienvenue dans l'organisation "SIO SISR/SLAM 2024" ! Cette organisation a été créée pour regrouper les projets réalisés par les étudiants du BTS Services Informatiques aux Organisations (SIO) en option SISR (Solutions d'Infrastructure, Systèmes et Réseaux) ou SLAM (Solutions Logicielles et Applications Métiers) de l'année 2024.
 
-L'équipe BTS SIO option SISR
+## Projets
+
+Voici une liste des projets actuellement hébergés dans notre organisation :
+
+- [Extension Google Anime](https://github.com/SIO-SISR-2024/Extention-google-anime) : Une extension Google Chrome pour simplifier le visionnage d'anime en ligne.
+- [IPS](https://github.com/SIO-SISR-2024/IPS) : IPS est là pour vérifier qu'aucun logiciel non voulu n'est en train de s'exécuter.
+
+N'hésitez pas à explorer ces projets et à contribuer si vous le souhaitez !
+
+## Contact
+
+Pour toute question ou préoccupation, n'hésitez pas à contacter les étudiants suivants :
+
+- [Scorpionxpx](https://github.com/Scorpionxpx)
+- [CorbetQ](https://github.com/CorbetQ)
+- [STYX49](https://github.com/STYX49)
+- [Tijack-chv](https://github.com/Tijack-chv)
+
+Nous sommes là pour vous aider !
+
+## Licence
+
+Tous les projets hébergés dans cette organisation sont sous licence [GPL-3.0](LICENSE). Cela signifie que vous êtes libre d'utiliser, copier, modifier et distribuer le code conformément aux termes de la licence GPL-3.0.
