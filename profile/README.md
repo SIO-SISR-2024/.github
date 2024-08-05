@@ -1,4 +1,4 @@
-# SIO SISR/SLAM 2024
+# SIO SISR/SLAM 2025
 
 Bienvenue dans l'organisation "SIO SISR/SLAM 2024" ! Cette organisation a été créée pour regrouper les projets réalisés par les étudiants du BTS Services Informatiques aux Organisations (SIO) en option SISR (Solutions d'Infrastructure, Systèmes et Réseaux) ou SLAM (Solutions Logicielles et Applications Métiers) de l'année 2024.
 
