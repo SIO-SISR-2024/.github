@@ -6,7 +6,6 @@ Bienvenue dans l'organisation "SIO SISR/SLAM 2024-2025" ! Cette organisation a �
 
 Voici une liste des projets actuellement hébergés dans notre organisation :
 
-- [Extension Google Anime](https://github.com/SIO-SISR-2024/Extention-google-anime) : Une extension Google Chrome pour simplifier le visionnage d'anime en ligne.
 - [IPS](https://github.com/SIO-SISR-2024/IPS) : IPS est là pour vérifier qu'aucun logiciel non voulu n'est en train de s'exécuter.
 - [Smart Canne](https://github.com/SIO-SISR-2024/Smart-Canne-for-Blind-Person) : Ce projet développé par Quentin permet au personnes aveugles de pouvoir detecter les obstacles proches
   
